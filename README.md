@@ -4,4 +4,8 @@
 
 ## 使用预览
 
-![tsc usage preview](./preview.png)
+![tsc now](./preview-01.png)
+
+![tsc rfc-822 datetime format](./preview-02.png)
+
+![tsc normal datetime format](./preview-03.png)
