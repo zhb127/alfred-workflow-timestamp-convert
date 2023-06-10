@@ -1,8 +1,10 @@
-## 环境说明
+# TimeStamp Convert
 
-- macOS 10.14.5
-- Alfred v3.8.1
-- PHP 7.1.23 (/usr/bin/php)
+## 测试环境
+
+- macOS 12.6.5
+- Alfred 5.1.1[2138]
+- PHP 8.2.4 (/usr/local/bin/php)
 
 ## 使用预览
 
